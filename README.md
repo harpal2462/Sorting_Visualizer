@@ -11,7 +11,6 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here]( https://github.com/sonu2462/Sorting_Visualizer)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
